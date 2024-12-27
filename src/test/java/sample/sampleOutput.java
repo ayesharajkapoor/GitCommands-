@@ -6,6 +6,7 @@ public class sampleOutput {
 		// TODO Auto-generated method stub
 		System.out.println("REstAPILEarining");
 		System.out.println("MAven Learning");
+		System.out.println("New code Learning");
 	}
 
 }
